@@ -18,7 +18,7 @@ Building intelligent collaboration systems powered by **AI + Enterprise AV + UCC
 
 ### 📚 Live Portfolio Journey
 Currently building expertise as an **AI + UCC + Enterprise AV Engineer**.
-This portfolio tracks my **projects, labs, system designs, AI tools and growth**.
+This portfolio tracks my **projects, labs, system designs, AI tools and growth**. 
 
 ✅ Upcoming projects:
 - AV System Diagrams + DSP Routing
